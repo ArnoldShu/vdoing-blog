@@ -298,7 +298,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                 options: {
                     clientID: '09de3ecbdb0ff41ededb',
                     clientSecret: '2dfcd57067cce3ccdecbedcc17fdc76b76f41669',
-                    repo: 'blog-gitalk-comment', // GitHub 仓库
+                    repo: 'https://github.com/ArnoldShu/blog-gitalk-comment.git', // GitHub 仓库
                     owner: 'ArnoldShu', // GitHub仓库所有者
                     admin: ['ArnoldShu'], // 对仓库有写权限的人
                     // distractionFreeMode: true,
