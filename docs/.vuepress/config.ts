@@ -249,7 +249,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
                     },
                     {
                         title: '在Bing中搜索',
-                        frontUrl: 'https://cn.bing.com/search?q=',
+                        frontUrl: 'https://www.bing.com/search?q=',
                     },
                     {
                         title: '通过百度搜索本站的',
