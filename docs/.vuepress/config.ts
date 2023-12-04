@@ -65,7 +65,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             {text: '🧑‍💻关于', link: '/about/'},
             {
                 text: '🔖收藏',
-                link: '/favorites/',
+                link: '/pages/b190cd/',
             },
             {
                 text: '🗂️索引',
